@@ -1,6 +1,15 @@
 #include <Arduino.h>
 
 /*
+  TODO ESSE CURSO É BASEADO NAS VÍDEO AULAS DO PROFESSOR DESTE LINK:
+  https://www.youtube.com/watch?v=7rbZFcqTaGc
+
+  Thanks teacher!!!
+
+  God Is Good
+*/
+
+/*
                              Notifications
                              
   Nesse tipo de controle, nós conseguimos fazer uma task notificar outra task.
